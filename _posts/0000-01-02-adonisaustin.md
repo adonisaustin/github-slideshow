@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+--- Welcome to the Studio of Adonis Austin
 Use the left arrow to go back!
